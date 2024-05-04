@@ -5,7 +5,7 @@ plugins {
 }
 
 version = '0.0.1-1.19'
-group = 'net.aydanmtt.a_dark_heart_supernatural_creatures' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group = 'net.aydanmtt00.a_dark_heart_supernatural_creatures' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'a_dark_heart_supernatural_creatures'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.

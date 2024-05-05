@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "a_dark_heart_supernatural_creatures:deepslate_silver_ore"
+  }
+}

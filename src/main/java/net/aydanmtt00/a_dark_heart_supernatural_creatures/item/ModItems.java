@@ -13,6 +13,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> SILVER = ITEMS.register("silver",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.A_DARK_HEART_SUPERNATURAL_CREATURES_TAB)));
+
     public static final RegistryObject<Item> RAW_SILVER = ITEMS.register("raw_silver",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.A_DARK_HEART_SUPERNATURAL_CREATURES_TAB)));
 

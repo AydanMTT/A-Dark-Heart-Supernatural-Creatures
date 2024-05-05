@@ -1,0 +1,15 @@
+{
+  "type": ["minecraft:crafting_shaped",
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "a_dark_heart_supernatural_creatures:silver"
+    }
+  },
+  "result": {
+    "item": "a_dark_heart_supernatural_creatures:silver_block"
+  }
+}
